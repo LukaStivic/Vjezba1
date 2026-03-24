@@ -9,4 +9,7 @@ namespace Vjezba1
     internal class NewClass
     {
     }
+
+    public static void Display(int) { }
+
 }

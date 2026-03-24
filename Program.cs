@@ -2,6 +2,7 @@
 
 namespace Vjezba1
 {
+
     class Program
     {
         static void main(string[] args)
