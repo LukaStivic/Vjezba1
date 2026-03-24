@@ -10,6 +10,10 @@ namespace Vjezba1
     {
     }
 
+<<<<<<< HEAD
     public static void Display(int) { }
 
+=======
+    public static void metoda(void){}
+>>>>>>> d32a9b05d3d17ea9a072ab5cbf0c9addcf0009b1
 }
