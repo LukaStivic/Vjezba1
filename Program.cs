@@ -1,2 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+namespace Vjezba1
+{
+    class Program
+    {
+        static void main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Novo");
+        }
+    }
+}
